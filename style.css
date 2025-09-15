@@ -102,6 +102,13 @@ button {
     padding: 0;
     box-sizing: border-box;}
 
+    body {
+        margin-bottom: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;   
+    }
+
     
     .logo-img {
         width: 500px;
